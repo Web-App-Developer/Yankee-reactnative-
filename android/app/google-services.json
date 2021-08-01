@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "945462148042",
+    "firebase_url": "https://yankeeswap-37db8.firebaseio.com",
+    "project_id": "yankeeswap-37db8",
+    "storage_bucket": "yankeeswap-37db8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945462148042:android:a9ee709347459a96be2d33",
+        "android_client_info": {
+          "package_name": "com.moyersoftware.swap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945462148042-7dvdfh9v35tclluupg7onjsusf0la14c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6cGNVmJMIAuaYH2I2z_EGyzg1NGQA-oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945462148042-7dvdfh9v35tclluupg7onjsusf0la14c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "945462148042-63tevksu2mchv4037dnh5l0obguepfli.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moyersoftware.swap"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945462148042:android:0f22c7b20d1a13d1be2d33",
+        "android_client_info": {
+          "package_name": "com.yankeeswap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945462148042-7dvdfh9v35tclluupg7onjsusf0la14c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6cGNVmJMIAuaYH2I2z_EGyzg1NGQA-oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945462148042-7dvdfh9v35tclluupg7onjsusf0la14c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "945462148042-63tevksu2mchv4037dnh5l0obguepfli.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moyersoftware.swap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
